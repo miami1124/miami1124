@@ -30,8 +30,6 @@
 
 台上講中文，台下即時看到英／日／韓文字幕，直接疊在你的簡報上。在自己電腦上跑，自備 Gemini API key。
 
-中研院那場演講就是用它完成的。
-
 </td>
 <td width="60%">
 <a href="https://github.com/miami1124/Live-Caption-Studio"><img src="assets/live-caption.jpg" width="100%"></a>
